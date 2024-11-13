@@ -1,0 +1,4 @@
+.ideaa
+venv/
+_pycache/
+.coverage
